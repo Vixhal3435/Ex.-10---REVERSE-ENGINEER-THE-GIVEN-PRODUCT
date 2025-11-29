@@ -32,13 +32,14 @@
 
 ## Input:
 
+<img width="839" height="650" alt="image" src="https://github.com/user-attachments/assets/0155595d-f863-4d2d-aea5-da2352d97a1a" />
+
 ### Output:
 
+<img width="879" height="606" alt="image" src="https://github.com/user-attachments/assets/def9d5aa-fd99-467e-9b17-2eab74b0fc86" />
 
 ### Name: VISHAL V
 ### Register Number: 212224040366
-
-<img width="1028" height="542" alt="image" src="https://github.com/user-attachments/assets/04ed33b4-0d7c-47b1-8e85-ec62df8bdad9" />
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
